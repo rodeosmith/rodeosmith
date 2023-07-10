@@ -1,7 +1,7 @@
 
 ---
 
-👋🏻 all! I'm Rodion (rodeosmith, rodiklay, rdn)
+👋🏻 all! I'm Rodion (saburov., rodeosmith, rdn)
 
 I'm not an experienced developer yet! But I already know something ✍️.
 
