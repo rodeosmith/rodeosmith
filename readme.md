@@ -16,3 +16,7 @@ What am I learning?
 ❤️ JS
 
 ---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valueiszero)](https://github.com/valueiszero/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valueiszero&layout=compact)
+
+---
