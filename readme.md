@@ -1,7 +1,7 @@
 
 ---
 
-👋🏻 all! I'm Vizero (aka smith, aka genius)
+👋🏻 all! Smith (aka rodsa)
 
 I'm not an experienced developer yet! But I already know something ✍️.
 
