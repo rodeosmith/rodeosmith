@@ -1,7 +1,7 @@
 
 ---
 
-👋🏻 all! Smith (aka rodsa)
+👋🏻 all! Rodion Mern (aka lontone)
 
 I'm not an experienced developer yet! But I already know something ✍️.
 
