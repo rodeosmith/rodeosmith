@@ -7,6 +7,8 @@ I'm not an experienced developer yet! But I already know something ✍️.
 
 ---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodionmern&repo=github-readme-stats)](https://github.com/rodionmern/rodionmern.github.io)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodionmern&layout=compact)
 
 ---
