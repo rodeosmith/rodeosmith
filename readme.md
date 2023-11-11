@@ -16,6 +16,7 @@ My current web-site: https://rodionmern.github.io/index
 + CSS
 + FIGMA
 + ENGLISH
++ SOME JS
 
 ## lang uses
 
