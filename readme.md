@@ -6,9 +6,12 @@
 
 ## about me
 
-I'm not an experienced developer yet! But I already know something ✍️.
+I am not yet an experienced developer originally from Russia! But I already know something ✍️.
 
 My current web-site: https://rodionmern.github.io/index
+
+My current project:
+https://github.com/rodionmern/my-ralculator
 
 ## my skills
 
