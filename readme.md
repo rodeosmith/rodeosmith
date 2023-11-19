@@ -1,6 +1,4 @@
-
-👋🏻 all! Rodion Mern (aka lontone)
-
+Everyone, hi! I'm Rodion Mern (aka rosburff, aka lontone)
 
 ---
 
@@ -13,11 +11,11 @@ https://github.com/rodionmern/my-ralculator
 
 ## my skills
 
-+ HTML
-+ CSS
-+ FIGMA
-+ ENGLISH
-+ SOME JS
++ HTML — Middle level
++ CSS/SCSS — Base-middle level
++ FIGMA — Good level
++ ENGLISH — A2-B1 level
++ SOME JS — Very, very basic level
 
 ## lang uses
 
