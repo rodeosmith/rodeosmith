@@ -1,6 +1,6 @@
-Everyone, hi! I'm Rodion Mern (aka rosburff, aka lontone)
-
----
+<h1 align="center">Hi there, I'm Rodion 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="33"/></h1>
+<h3 align="center">Web-developer, JS-programmer from Russia 🇷🇺</h3>
 
 ## about me
 
@@ -10,12 +10,19 @@ My current project:
 https://github.com/rodionmern/my-ralculator
 
 ## my skills
+<div>
 
-+ HTML — Middle level
-+ CSS/SCSS — Base-middle level
-+ FIGMA — Good level
-+ ENGLISH — A2-B1 level
-+ SOME JS — Very, very basic level
+  <ul>
+  
+    HTML — Middle level
+    CSS/SCSS — Base-middle level
+    FIGMA — Good level
+    ENGLISH — A2-B1 level
+    SOME JS — Very, very basic level
+    
+  </ul>
+  
+</div>
 
 ## lang uses
 
