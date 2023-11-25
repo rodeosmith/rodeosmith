@@ -1,16 +1,8 @@
 <h1 align="center">Hi there, I'm Rodion 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="33"/></h1>
-<h3 align="center">Web-developer, JS-programmer from Russia 🇷🇺</h3>
+<p align="center">I am not yet an experienced js and web-developer originally from Russia 🇷🇺! But I already know something ✍️.</p>
 
-## about me
-
-I am not yet an experienced developer originally from Russia! But I already know something ✍️.
-
-My current project:
-https://github.com/rodionmern/my-ralculator
-
-## my skills
-<div>
+<h2 align="right">my skills</h2>
 
   <ul>
   
@@ -21,14 +13,10 @@ https://github.com/rodionmern/my-ralculator
     SOME JS — Very, very basic level
     
   </ul>
-  
-</div>
 
-## lang uses
+<h2 align="center">lang uses</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodionmern&layout=compact)
-
-## profile and waka
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodionmern&layout=donut)](https://github.com/rodionmern/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=rodionmern&style=for-the-badge)
 
