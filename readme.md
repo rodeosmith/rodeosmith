@@ -3,12 +3,12 @@
 
 <h3 align="left">More about my skills</h3>
 
-  <ul>
+```
   
-    HTML — Middle level
-    CSS/SCSS — Base-middle level
-    FIGMA — Good level
-    ENGLISH — A1:A2-B1 level
-    JS — Base level
-    
-  </ul>
+  HTML — Middle level
+  CSS/SCSS — Base-middle level
+  FIGMA — Good level
+  ENGLISH — A1:A2-B1 level
+  JS — Base level
+
+```
