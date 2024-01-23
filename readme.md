@@ -1,7 +1,11 @@
 <h2 align="center">You in my GitHub page! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="33"/></h2>
-<p align="left">My name is Rodion, I'am js-begginer and web-developer originally from Russia 🇷🇺. Now i'm lerning JavaScript and upgrading my Css skills and attainments!</p>
-
-<h3 align="left">More about my skills</h3>
+<p align="right">My name is Rodion, I'am learning javascript, html, css and bash.</p>
+<p align="left">My current projects:</p>
+<ul align="center">
+  <li><a href="https://github.com/rodionmern/gnush">gnush</a></li>
+  <li><a href="https://github.com/rodionmern/rodionmern.github.io">web-site</a></li>
+</ul>
+<h3 align="center">More about my skills</h3>
 
 ```
   
