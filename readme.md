@@ -10,7 +10,7 @@
 <ul>
   <li><a href="https://notabug.org/rodion/dotfiles">dotfiles</a><br></li>
   <li><a href="https://notabug.org/rodion/website">website</a> (<a href="https://rodionmern.github.io/">link</a>)<br></li>
-  <li><a href="https://notabug.org/rodion/javascript-calculator">javascript-calculator</a></li>
+  <li><a href="https://github.com/rodionmern/js-calc">javascript-calculator</a></li>
 </ul>
 
 <h3 align="center">More about my skills</h3>
