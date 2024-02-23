@@ -1,5 +1,3 @@
-###### *now I'm on <a href="https://notabug.org/rodion">notabug.org</a>
-
 <h2 align="right">You in my GitHub page! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="33"/></h2>
 
 
@@ -8,8 +6,8 @@
 <p align="left">My current projects:</p>
 
 <ul>
-  <li><a href="https://notabug.org/rodion/dotfiles">dotfiles</a><br></li>
-  <li><a href="https://notabug.org/rodion/website">website</a> (<a href="https://rodionmern.github.io/">link</a>)<br></li>
+  <li><a href="https://github.com/rodionmern/dotfiles">dotfiles</a><br></li>
+  <li><a href="https://github.com/rodionmern/rodionmern.github.io">website</a> (<a href="https://rodionmern.github.io/">link</a>)<br></li>
   <li><a href="https://github.com/rodionmern/js-calc">javascript-calculator</a></li>
 </ul>
 
