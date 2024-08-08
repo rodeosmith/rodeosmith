@@ -1,24 +1,16 @@
-<h2 align="right">You in my GitHub page! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="33"/></h2>
+<h2 align="center">You're on my GitHub page! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="33"/></h2>
 
+<p align="center">My name is Rodion, I'am learning python, javascript, html, css and bash.</p><br>
 
-<p align="right">My name is Rodion, I'am learning javascript, html, css and bash.</p><br>
+<a href="https://github.com/rodionmern/dotfiles"><img src="dotfiles.png"></img></a>
+<br>
+<a href="https://rodionmern.github.io"><img src="website.png"></img></a>
 
-<p align="left">My current projects:</p>
+<h3 align="center">My skills</h3>
 
-<ul>
-  <li><a href="https://github.com/rodionmern/dotfiles">dotfiles</a><br></li>
-  <li><a href="https://github.com/rodionmern/rodionmern.github.io">website</a> (<a href="https://rodionmern.github.io/">link</a>)<br></li>
-  <li><a href="https://github.com/rodionmern/js-calc">javascript-calculator</a></li>
-</ul>
-
-<h3 align="center">More about my skills</h3>
-
-```
-  
-  HTML — Middle level
-  CSS/SCSS — Base-middle level
-  FIGMA — Good level
-  ENGLISH — A1:A2-B1 level
-  JS — Base level
-
+```  
+HTML/CSS/JS — Base/Middle level
+PYTHON — Base/Middle level
+FIGMA — Good level
+ENGLISH — A1:A2-B1 level
 ```
