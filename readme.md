@@ -14,3 +14,5 @@ PYTHON — Base/Middle level
 FIGMA — Good level
 ENGLISH — A1:A2-B1 level
 ```
+
+[![wakatime](https://wakatime.com/badge/user/7df860a8-9db0-482f-9c5b-e7f55eb17ef5.svg)](https://wakatime.com/@7df860a8-9db0-482f-9c5b-e7f55eb17ef5)
