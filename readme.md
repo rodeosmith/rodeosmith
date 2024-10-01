@@ -27,9 +27,7 @@ ENGLISH — A1:A2-B1 level
 
 DIFFERENT LINKS:
 
-<a href="https://github.com/rodionmern/dotfiles"><img src="dotfiles.png"></img></a>
-<br>
-<a href="https://rodionmern.github.io"><img src="website.png"></img></a>
+<a href="https://github.com/rodionmern/dotfiles"><img src="dotfiles.png"></img></a> <a href="https://rodionmern.github.io"><img src="website.png"></img></a>
 
 ---
 
